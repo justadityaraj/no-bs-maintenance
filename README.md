@@ -1,4 +1,4 @@
-# No-BS Maintenance Mode
+# No-BS Maintenance Mode for WordPress!
 
 A simple and straightforward WordPress plugin to display a maintenance message without any fluff. Perfect for when you need to take your site offline for maintenance, updates, or changes.
 
@@ -11,7 +11,7 @@ A simple and straightforward WordPress plugin to display a maintenance message w
 
 ## Installation
 
-1. Download the plugin from the [GitHub repository](https://github.com/justadityaraj/no-bs-maintenance-mode).
+1. Download the plugin from the [GitHub repository](https://github.com/justadityaraj/no-bs-maintenance).
 2. Upload the `no-bs-maintenance-mode` folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
@@ -38,7 +38,7 @@ If you'd like to contribute to this project, please fork the repository and subm
 
 ## Support
 
-If you encounter any issues or have questions, please create an issue in the [GitHub repository](https://github.com/yourusername/no-bs-maintenance-mode/issues).
+If you encounter any issues or have questions, please create an issue in the [GitHub repository](https://github.com/justadityaraj/no-bs-maintenance/issues).
 
 ---
 
