@@ -11,9 +11,9 @@ A simple and straightforward WordPress plugin to display a maintenance message w
 
 ## Installation
 
-1. Download the plugin from the [GitHub repository](https://github.com/justadityaraj/no-bs-maintenance).
-2. Upload the `no-bs-maintenance-mode` folder to the `/wp-content/plugins/` directory.
-3. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Click on the <code>Code</code> button near the top and then <code>Download ZIP</code> or [click here](https://github.com/justadityaraj/no-bs-maintenance/archive/refs/heads/main.zip) to download the plugin.
+2. Go to Plugins > Add New in your WordPress admin. Click on <code>Upload Plugin</code> and browse for the zip file.
+3. Activate the plugin.
 
 ## Usage
 
