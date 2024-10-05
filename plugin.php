@@ -1,12 +1,12 @@
 <?php
 /*
  * Plugin Name: No-BS! Maintenance Mode
- * Plugin URI: https://github.com/justadityaraj/maintenance
+ * Plugin URI: https://github.com/justadityaraj/no-bs-maintenance
  * Description: A simple no-bull$hit maintenance mode plugin to display a maintenance message without any fluff.
- * Version: 1.2
+ * Version: 1.0
  * Author: Aditya Raj Singh
  * Author URI: https://adityarajsingh.com/
- * License:		GPL-2.0+
+ * License:	GPL-2.0+
  * License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
 
 This plugin is free software: you can redistribute it and/or modify
